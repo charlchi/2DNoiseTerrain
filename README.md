@@ -4,4 +4,4 @@ Compile: javac Game.java
 
 Run: java Game
 
-![](vid.mp4)
+![](vid.gif)
